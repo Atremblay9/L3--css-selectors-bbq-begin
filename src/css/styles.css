@@ -57,8 +57,10 @@ footer {
 .daily-special {
     /* add code here as required */
     color: red;
-    margin-top: 3px;
-    margin-bottom: 3px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    font-style: italic;
     
 }
 
