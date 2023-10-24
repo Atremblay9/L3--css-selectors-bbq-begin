@@ -1,1 +1,0 @@
-Make changes to the css file where required to achieve the desired layout. No need to change the html.
